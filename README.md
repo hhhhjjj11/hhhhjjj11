@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=WELCOME%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=WELCOME%20👋&fontSize=90)
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhhhjjj11&&show_icons=true&theme=dark)
 
