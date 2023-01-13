@@ -1,6 +1,19 @@
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=d1ff6a&height=200&section=header&text=WELCOME&fontSize=80&fontColor=ffffff&animation=twinkling&descAlignY=30&them=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=d1ff6a&height=100&section=header&text=HELLO_SAFFY9th&fontSize=50&fontColor=ffffff&animation=twinkling&descAlignY=30&them=gruvbox_light)
+
+
+<br/>
+<br/>
+
+🐣안녕하세요🐣 <br/>
+백엔드 웹개발자를 꿈꾸는 <br/>
+SSAFY 9th [서울2반] 허재입니다! <br/>
+저의 취미는 수영🏊‍♂️, 축구⚽, 게임🖥️ 입니다!
+
+1년동안 열심히 배워봐요! <br/>
+모두 화이팅입니다!!
+
 
 <br/>
 <br/>
