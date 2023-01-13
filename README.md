@@ -12,7 +12,7 @@
 SSAFY 9th [서울2반] 허재입니다! <br/>
 저의 취미는 수영🏊‍♂️, 축구⚽, 게임🖥️ 입니다!
 <br/>
-작년말 3개월동안 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+작년말 3개월 동안 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 를 배운 경험이 있습니다!
 <br/>
 <br/>
