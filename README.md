@@ -3,7 +3,7 @@
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhhhjjj11&&show_icons=true&theme=dark)
 
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=CHAERYEON&fontSize=80&animation=twinkling&descAlignY=30)]([https://github.com/CHAERYEON-LEE])
+[![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WELCOME&fontSize=80&animation=twinkling&descAlignY=30)]([https://github.com/CHAERYEON-LEE])
 
 <!--
 **hhhhjjj11/hhhhjjj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
