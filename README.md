@@ -1,10 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=WELCOME%20👋&fontSize=90)
 
-![hhhhjjj11's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
-
-
-
+![hhhhjjj11's github stats](https://github-readme-stats.vercel.app/api?username=huhwo00@gmail.com&show_icons=true)
 <!--
 **hhhhjjj11/hhhhjjj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
