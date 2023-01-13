@@ -11,13 +11,14 @@
 백엔드 웹개발자를 꿈꾸는 <br/>
 SSAFY 9th [서울2반] 허재입니다! <br/>
 저의 취미는 수영🏊‍♂️, 축구⚽, 게임🖥️ 입니다!
-저는 작년말 3개월동안 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+<br/>
+작년말 3개월동안 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 를 배웠습니다!
 <br/>
 <br/>
 2023년 열심히 공부해서! 
 <br/>
-알고리즘과 웹개발 모두 우수한 역량을 갖추고 싶습니다!! <br/>
+알고리즘과 웹개발 모두 우수한 역량을 갖추고!<br/>좋은곳에 취업하고 싶습니다!! <br/>
 🤯🧐
 <br/>
 <br/>
