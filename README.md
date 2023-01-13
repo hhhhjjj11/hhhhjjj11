@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WELCOME&fontSize=80&animation=twinkling&descAlignY=30&them=gruvbox_light)
 
-
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhhhjjj11&&show_icons=true&theme=dark)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhhhjjj11&&show_icons=true&theme=light)
 
 
 
