@@ -1,9 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WELCOME&fontSize=80&animation=twinkling&descAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=WELCOME%20👋&fontSize=90)
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhhhjjj11&&show_icons=true&theme=dark)
 
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=WELCOME&fontSize=80&animation=twinkling&descAlignY=30)]
+
 
 <!--
 **hhhhjjj11/hhhhjjj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
