@@ -1,6 +1,6 @@
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=d1ff6a&height=100&section=header&text=HJ Github&fontSize=50&fontColor=ffffff&animation=twinkling&descAlignY=30&them=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=d1ff6a&height=100&section=header&text=HJ_Github&fontSize=50&fontColor=ffffff&animation=twinkling&descAlignY=30&them=gruvbox_light)
 
 
 <br/>
